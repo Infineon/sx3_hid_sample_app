@@ -1,0 +1,1 @@
+# sx3_hid_sample_app
