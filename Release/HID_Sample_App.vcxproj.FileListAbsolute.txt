@@ -1,0 +1,2 @@
+C:\Users\nairashwin\Onedrive_Backup\Projects\SX3\Code\Utils\HID_Sample_App_SX3\Release\HID_Sample_App.exe
+C:\Users\nairashwin\P4\apps\DCD\EZ-USB SX3\sx3_hid_app\Release\HID_Sample_App.exe
